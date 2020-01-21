@@ -2,7 +2,8 @@
 
 int main() {
 
-    printf("Hello,Kitty");
+    printf("Hello,Kitty\n");
+    printf("HELLO,\tkitty");
 
     return 0;
 }
